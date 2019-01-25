@@ -58,7 +58,7 @@ Available services: `turn_on`, `turn_off`, `toggle`, `volume_up`, `volume_down`,
 
 #### {% linkable_title Service `media_player.select_sound_mode` %}
 
-Currently only supported on [Denon AVR](/components/media_player.denonavr/) and  [Songpal](/components/media_player.songpal/).
+Currently only supported on [Denon AVR](/components/media_player.denonavr/), [Yamaha](/components/media_player.yamaha) and  [Songpal](/components/media_player.songpal/).
 
 | Service data attribute | Optional | Description                                          |
 | ---------------------- | -------- | ---------------------------------------------------- |
